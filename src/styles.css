@@ -1,0 +1,36 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #f8f9fa;
+  height: 100vh;
+  color: #343a40;
+  margin: 0;
+  padding: 0;
+}
+
+
+.todo-app {
+  background: linear-gradient(135deg, #ffffff, #b3def9);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+  
+}
+
+.todo-box {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.input-field {
+  width: 100%;
+}
+
+  
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
